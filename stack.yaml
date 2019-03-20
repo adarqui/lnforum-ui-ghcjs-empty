@@ -17,8 +17,4 @@ packages:
 - location: '.'
 
 extra-deps:
-  #- ref-tf-0.4
-  #- these-0.6.1.0
-  #- react-flux-1.1.1
-  #- ghcjs-dom-0.2.4.0
-  #- semigroupoids-5.0.1@rev:0
+- react-flux-1.2.3
