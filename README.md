@@ -1,3 +1,3 @@
-# ln-ui-ghcjs
+# lnforum-ui-ghcjs-empty
 
-This exists simply to build the ln-ui application using the ghcjs compiler, which produces the result javascript.
+A small remo to ensure the build environment is working.

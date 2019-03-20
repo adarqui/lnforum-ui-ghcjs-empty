@@ -2,6 +2,7 @@
 *.o
 *.p_hi
 *.prof
+*.ghc*
 *.tix
 *.swp
 .hpc/
@@ -12,4 +13,4 @@ examples/dist/*
 cabal.config
 cabal.sandbox.config
 .stack-work
-/private
+private

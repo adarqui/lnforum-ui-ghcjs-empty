@@ -3,10 +3,6 @@ module Main (
 ) where
 
 
-
-import           LN.UI.ReactFlux.Main (runReactMain)
-
-
-
 main :: IO ()
-main = runReactMain
+main = do
+  putStrLn "empty"
