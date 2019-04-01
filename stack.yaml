@@ -1,6 +1,6 @@
+resolver: lts-6.30
 flags: {}
 
-resolver: lts-6.30
 compiler: ghcjs-0.2.0.9006030_ghc-7.10.3
 compiler-check: match-exact
 
